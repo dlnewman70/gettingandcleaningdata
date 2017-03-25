@@ -1,4 +1,4 @@
-## STEP 0: load required packages
+## 0: load required packages
 ## use install.packages('reshape2')
 library(reshape2)
 

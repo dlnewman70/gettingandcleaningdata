@@ -21,3 +21,5 @@ You should create one R script called run_analysis.R that does the following.
 You can run the R script (run_analysis.R). Note that it requires the reshape2 package, which can be downloaded from CRAN.
 
 See CodeBook.md for further information regarding the data set and the files.
+
+Processing steps - inline comments submitted in code identify each part of the required steps identified in the project to complete.
